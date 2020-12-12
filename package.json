@@ -1,0 +1,19 @@
+{
+  "name": "ipgsd",
+  "version": "1.0.0",
+  "description": "Primeira app em nodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manzarra/IPGSD.git"
+  },
+  "author": "andrepedro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manzarra/IPGSD/issues"
+  },
+  "homepage": "https://github.com/manzarra/IPGSD#readme"
+}
